@@ -2,7 +2,11 @@ This is a SPI PMOD board and holds your SPI memory chip.
 
 Typical footprints used for SPI memory like DIP-8, SOIC-8 and SOP-8 will fit on the Frankenstein-8 footprint.
 
-*Status*: soldered, unkown if working.
+*Status*: working.
+
+Tested with:
+- APS6404L-3SQR, 8MiB SPI PSRAM
+- W25Q64, 8MiB SPI FLASH
 
 My [Kicad library](https://github.com/atoomnetmarc/ATOOMNETKICAD) is used in this project.
 
